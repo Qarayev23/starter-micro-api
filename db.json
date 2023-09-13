@@ -1,0 +1,1217 @@
+{
+    "pizza": [
+        {
+            "id": 5,
+            "name": "Qarışıq Ət",
+            "img": "https://www.papajohns.az/uploads/images/qarishiq_et.jpg",
+            "category": "meat",
+            "ingredients": "Pepperoni, İtalyan Sosisi, Mal Əti, Mal Ətindən Vetçina, Mozzarella Pendiri",
+            "options": [
+                "Kicik, 23 sm - 13 M",
+                "Orta, 30 sm - 21 M",
+                "Böyük, 35 sm - 25 M"
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Amerikan Hot",
+            "img": "https://www.papajohns.az/uploads/images/pizza/american-hot.png",
+            "category": "spicy",
+            "ingredients": "Pizza Sous, Mozzarella pendiri, Pepperoni və Halapeno Bibəri",
+            "options": [
+                "Kicik, 23 sm - 13 M",
+                "Orta, 30 sm - 21 M",
+                "Böyük, 35 sm - 25 M"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Super Papa",
+            "img": "https://www.papajohns.az/uploads/images/super-papa.jpg",
+            "category": "meat",
+            "ingredients": "Pepperoni, İtalyan Sosisi, Mal Ətindən Vetçina, Göbələk, Yaşıl Bibər, Qara Zeytun, Mozzarella Pendiri",
+            "options": [
+                "Kicik, 23 sm - 13 M",
+                "Orta, 30 sm - 21 M",
+                "Böyük, 35 sm - 25 M"
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Çiken Ranç",
+            "img": "https://www.papajohns.az/uploads/images/chicken_ranch.jpg",
+            "category": "chicken",
+            "ingredients": "Qril Toyuq, Pomidor, Ranç Sousu, Mozzarella Pendiri",
+            "options": [
+                "Kicik, 23 sm - 13 M",
+                "Orta, 30 sm - 21 M",
+                "Böyük, 35 sm - 25 M"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Çiken Barbekyu",
+            "img": "https://www.papajohns.az/uploads/images/chicken_barbekyu.jpg",
+            "category": "chicken",
+            "ingredients": "Qril Toyuq, Göbələk, Barbekyu Sousu, Mozzarella Pendiri",
+            "options": [
+                "Kicik, 23 sm - 13 M",
+                "Orta, 30 sm - 21 M",
+                "Böyük, 35 sm - 25 M"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Çiken Çizburger",
+            "img": "https://www.papajohns.az/uploads/images/chicken_cheeseburger.jpg",
+            "category": "chicken",
+            "ingredients": "Qril Toyuq, Turşu Xiyar, Pomidor, Mozzarella Pendiri, Sous",
+            "options": [
+                "Kicik, 23 sm - 13 M",
+                "Orta, 30 sm - 21 M",
+                "Böyük, 35 sm - 25 M"
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Vestern Barbekyu",
+            "img": "https://www.papajohns.az/uploads/images/vestern_barbekyu.jpg",
+            "category": "meat",
+            "ingredients": "Mal Əti, Göbələk, Barbekyu Sousu, Mozzarella Pendiri",
+            "options": [
+                "Kicik, 23 sm - 13 M",
+                "Orta, 30 sm - 21 M",
+                "Böyük, 35 sm - 25 M"
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Acılı Vegetarian",
+            "img": "https://www.papajohns.az/uploads/images/pizza/vegetarian-acili.png",
+            "category": "vegetarian",
+            "ingredients": "Halapeno Bibəri, Pomidor, Göbələk, Qara Zeytun, Yaşıl Bibər və Mozzarella Pendiri",
+            "options": [
+                "Kicik, 23 sm - 13 M",
+                "Orta, 30 sm - 21 M",
+                "Böyük, 35 sm - 25 M"
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Yunan",
+            "img": "https://www.papajohns.az/uploads/images/yunan.jpg",
+            "category": "vegetarian",
+            "ingredients": "Pomidor, Zeytun, Feta Pendiri, Oreqano, Acılı Bibər, Mozzarella Pendiri",
+            "options": [
+                "Kicik, 23 sm - 13 M",
+                "Orta, 30 sm - 21 M",
+                "Böyük, 35 sm - 25 M"
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Margarita",
+            "img": "https://www.papajohns.az/uploads/images/margarita.jpg",
+            "category": "vegetarian",
+            "ingredients": "Pomidor, Oreqano, Mozzarella Pendiri",
+            "options": [
+                "Kicik, 23 sm - 13 M",
+                "Orta, 30 sm - 21 M",
+                "Böyük, 35 sm - 25 M"
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Qril Çiken Parmezan",
+            "img": "https://www.papajohns.az/uploads/images/pizza/Grill-%C3%87iken-Parmezan.png",
+            "category": "spicy",
+            "ingredients": "Sarımsaqlı Parmezan sousu, Qril Toyuğu, Vetçina, Pomidor, Mozzarella Pendiri, Halapeno Bibəri",
+            "options": [
+                "Kicik, 23 sm - 13 M",
+                "Orta, 30 sm - 21 M",
+                "Böyük, 35 sm - 25 M"
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Acılı Çiken Ranç",
+            "img": "https://www.papajohns.az/uploads/images/pizza/Spicy-chicken-ranch.png",
+            "category": "spicy",
+            "ingredients": "Ranç Sousu, Toyuq Əti, Göbələklər,  Halapeno Bibəri, Təzə Doğranmış Pomidorlar və Mozzarella Pendiri",
+            "options": [
+                "Kicik, 23 sm - 13 M",
+                "Orta, 30 sm - 21 M",
+                "Böyük, 35 sm - 25 M"
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Havay",
+            "img": "https://www.papajohns.az/uploads/images/havay.jpg",
+            "category": "chicken",
+            "ingredients": "Qril Toyuq, Ananas, Ekstra Mozzarella",
+            "options": [
+                "Kicik, 23 sm - 13 M",
+                "Orta, 30 sm - 21 M",
+                "Böyük, 35 sm - 25 M"
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Nyu Orleans",
+            "img": "https://www.papajohns.az/uploads/images/new_orleans_pizza.jpg",
+            "category": "chicken",
+            "ingredients": "Qarğıdalı, Qril Toyuq, Göbələk, Yaşıl Bibər, Sarımsaq Sousu, Mozzarella Pendiri",
+            "options": [
+                "Kicik, 23 sm - 13 M",
+                "Orta, 30 sm - 21 M",
+                "Böyük, 35 sm - 25 M"
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Çiken Göbələk",
+            "img": "https://www.papajohns.az/uploads/images/desert/Mushroom%20320x220%20px.jpg",
+            "category": "chicken",
+            "ingredients": "Qril toyuq, Turşu xiyar, Göbələk, Mozzarella, Göbələk sousu",
+            "options": [
+                "Kicik, 23 sm - 13 M",
+                "Orta, 30 sm - 21 M",
+                "Böyük, 35 sm - 25 M"
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Klassik Pepperoni",
+            "img": "https://www.papajohns.az/uploads/images/klassik_pepperoni.jpg",
+            "category": "meat",
+            "ingredients": "Pepperoni, Ekstra Mozzarella",
+            "options": [
+                "Kicik, 23 sm - 13 M",
+                "Orta, 30 sm - 21 M",
+                "Böyük, 35 sm - 25 M"
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Marinera",
+            "img": "https://www.papajohns.az/uploads/images/klassik_pepperoni.jpg",
+            "category": "meat",
+            "ingredients": "Ton Balığı, Yaşıl Bibər, Qara Zeytun, Mozzarella Pendiri",
+            "options": [
+                "Kicik, 23 sm - 13 M",
+                "Orta, 30 sm - 21 M",
+                "Böyük, 35 sm - 25 M"
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Litl İtaliya",
+            "img": "https://www.papajohns.az/uploads/images/little_italy.jpg",
+            "category": "meat",
+            "ingredients": "Pepperoni, İtalyan Sosisi, Göbələk, Qara Zeytun, Oreqano, Mozzarella Pendiri",
+            "options": [
+                "Kicik, 23 sm - 13 M",
+                "Orta, 30 sm - 21 M",
+                "Böyük, 35 sm - 25 M"
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Aylend Spays",
+            "img": "https://www.papajohns.az/uploads/images/pizza/Aylend-Spays.png",
+            "category": "spicy",
+            "ingredients": "Sarımsaq Sousu, Qril Toyuğu, Ananas, Pomidor, Mozzarella Pendiri, Halapeno bibəri, Çili Pul Bibəri",
+            "options": [
+                "Kicik, 23 sm - 13 M",
+                "Orta, 30 sm - 21 M",
+                "Böyük, 35 sm - 25 M"
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Çiken Baffalo",
+            "img": "https://www.papajohns.az/uploads/images/chicken_buffalo.jpg",
+            "category": "spicy",
+            "ingredients": "Toyuq Poppersləri, Vetçina, Baffalo Sousu, Ranç Sousu, Mozzarella Pendiri",
+            "options": [
+                "Kicik, 23 sm - 13 M",
+                "Orta, 30 sm - 21 M",
+                "Böyük, 35 sm - 25 M"
+            ]
+        }
+    ],
+    "papadias": [
+        {
+            "id": 1,
+            "name": "Dabl Çeddar Çizburger Papadias",
+            "ingredients": "1000 Ada sousu, Mal Əti, Pomidor, Mozzarella və Cheddar Pendirləri",
+            "img": "https://www.papajohns.az/uploads/images/Papadias/Dabl-cheddar-%C3%A7%C4%B0zburger-Papad%C4%B0as-yeni-sayt.png",
+            "price": 8
+        },
+        {
+            "id": 2,
+            "name": "Nyu Orleans Papadias",
+            "ingredients": "Sarımsaq Sousu, Yaşıl Bibər, Qril Toyuğu, Qarğıdalı, Mozzarella Pendiri.",
+            "img": "https://www.papajohns.az/uploads/images/Papadias/Nyu-Orleans-papad%C4%B0as-yeni-sayt.png",
+            "price": 8
+        },
+        {
+            "id": 3,
+            "name": "Çiken Baffalo Papadias",
+            "ingredients": "Ranç Sousu, Qril Toyuq, Pomidor, Mozzarella Pendiri, Baffalo Sousu.",
+            "img": "https://www.papajohns.az/uploads/images/Papadias/Buffalo-Chiken-Papadias.jpg",
+            "price": 8
+        },
+        {
+            "id": 4,
+            "name": "Acılı Çiken Ranç Papadias",
+            "ingredients": "Ranç Sousu, Qril Toyuğu, Göbələk, Pomidor, Halapeno, Mozarella.",
+            "img": "https://www.papajohns.az/uploads/images/Papadias/Acili-%C3%A7iken-ran%C3%A7-papadias.png",
+            "price": 8
+        },
+        {
+            "id": 5,
+            "name": "İtalyan Papadias",
+            "ingredients": "Pizza Sousu, İtalyan Sosisi, Pepperoni, Mozzarella, Parmezan, Italyan ədviyyatları.",
+            "img": "https://www.papajohns.az/uploads/images/Papadias/%C4%B0talyan-papadias.png",
+            "price": 8
+        },
+        {
+            "id": 6,
+            "name": "Çeddar Meksika Papadias",
+            "ingredients": "Pizza sousu, Yaşıl Bibər, Qril Toyuğu, Mozzarella, Halapeno",
+            "img": "https://www.papajohns.az/uploads/images/Papadias/%C4%B0talyan-papadias.png",
+            "price": 8
+        },
+        {
+            "id": 7,
+            "name": "Çiken BBQ Papadias",
+            "ingredients": "Qril Toyuğu, Göbələk, Mozzarella, Barbekyu sousu",
+            "img": "https://www.papajohns.az/uploads/images/Papadias/%C4%B0talyan-papadias.png",
+            "price": 8
+        }
+    ],
+    "snack": [
+        {
+            "id": 1,
+            "name": "Pepperoni Rolls",
+            "ingredients": "8 ədəd roll, Pizza-Sous",
+            "img": "https://www.papajohns.az/uploads/images/pepperoni_rolls.jpg",
+            "price": 9
+        },
+        {
+            "id": 2,
+            "name": "Cheddar Rolls",
+            "ingredients": "8 ədəd roll, Pizza-Sous",
+            "img": "https://www.papajohns.az/uploads/images/snacks/Cheddar-Rolls.png",
+            "price": 9
+        },
+        {
+            "id": 3,
+            "name": "Çiken Rolls",
+            "ingredients": "Qril Toyuq, Turşu Xiyar, Mozzarella Pendiri, Ranç Sousu",
+            "img": "https://www.papajohns.az/uploads/images/snacks/Chicken-Rolls.jpg",
+            "price": 9
+        },
+        {
+            "id": 4,
+            "name": "Acılı Çiken Rolls",
+            "ingredients": "Qril Toyuq, Halapeno Bibəri, Mozzarella Pendiri, Ranç Sousu",
+            "img": "https://www.papajohns.az/uploads/images/snacks/Spicy-Chicken-Rolls.jpg",
+            "price": 9
+        },
+        {
+            "id": 5,
+            "name": "Cheddar Pendirli Çubuqlar",
+            "ingredients": "1 ədəd Pizza sousu, 1 ədəd sarımsaq sousu",
+            "img": "https://www.papajohns.az/uploads/images/snacks/Cheddar-Pendirli-%C3%A7ubuqlar.png",
+            "price": 9
+        },
+        {
+            "id": 6,
+            "name": "Pendirli Çubuqlar",
+            "ingredients": "Sarımsaq Sousu, Pizza-Sous",
+            "img": "https://www.papajohns.az/uploads/images/snacks/Cheddar-Pendirli-%C3%A7ubuqlar.png",
+            "price": 7
+        },
+        {
+            "id": 7,
+            "name": "Vetçina və Göbələkli Çubuqlar",
+            "ingredients": "Sarımsaq Sousu, Vetçina, Göbələk, Mozzarella",
+            "img": "https://www.papajohns.az/uploads/images/snacks/pendirli-chubuqlar-bikon%20(1).png",
+            "price": 9
+        },
+        {
+            "id": 8,
+            "name": "Küncütlü Pendirli Çubuqlar",
+            "ingredients": "Sarımsaq Sousu, Mozzarella, Küncüt",
+            "img": "https://www.papajohns.az/uploads/images/snacks/pendirli-chubuqlar-kuncut%20(1).png",
+            "price": 8
+        },
+        {
+            "id": 9,
+            "name": "Sarımsaqlı Çubuqlar",
+            "ingredients": "Sarımsaq Sousu, Pizza-Sous",
+            "img": "https://www.papajohns.az/uploads/images/sarimsaqli_cubuqlar.jpg",
+            "price": 3
+        },
+        {
+            "id": 10,
+            "name": "Kalzone, Qril Toyuğu və Göbələk",
+            "ingredients": "Qril Toyuq, Göbələk, Sarımsaq Sousu, Mozzarella Pendiri",
+            "img": "https://www.papajohns.az/uploads/images/Calzone_Chicken.jpg",
+            "price": 6
+        },
+        {
+            "id": 11,
+            "name": "Kalzone, Pepperoni və İtalyan Sosisi",
+            "ingredients": "Pepperoni, İtalyan Sosisləri, Sarımsaq Sousu, Mozzarella Pendiri",
+            "img": "https://www.papajohns.az/uploads/images/Calzone_Pepperoni.jpg",
+            "price": 6
+        },
+        {
+            "id": 12,
+            "name": "Pendirli mütəkkələr",
+            "ingredients": "1 ədəd Pizza sousu, 1 ədəd Sarımsaq sousu",
+            "img": "https://www.papajohns.az/uploads/images/snacks/pendirli-m%C3%BCt%C9%99kk%C9%99l%C9%99r.png",
+            "price": 10
+        },
+        {
+            "id": 13,
+            "name": "Toyuq Qanadları",
+            "ingredients": "Barbekyu və ya Baffalo sousu ilə (250 gr)",
+            "img": "https://www.papajohns.az/uploads/images/toyuq_qanadlari.jpg",
+            "price": 9
+        },
+        {
+            "id": 14,
+            "name": "Kartof Dilimləri",
+            "ingredients": "200 qram",
+            "img": "https://www.papajohns.az/uploads/images/kartof_dilimleri.jpg",
+            "price": 4
+        },
+        {
+            "id": 15,
+            "name": "Toyuq Poppersləri",
+            "ingredients": "150 qram",
+            "img": "https://www.papajohns.az/uploads/images/chicken_poppers.jpg",
+            "price": 6
+        }
+    ],
+    "salad": [
+        {
+            "id": 1,
+            "name": "Sezar Salatı",
+            "ingredients": "Qril Toyuq, Aysberq Kahı, Suxari, Pomidor, Parmesan, Sezar Sousu",
+            "img": "https://www.papajohns.az/uploads/images/Caesar%20Salad.jpg",
+            "price": 9
+        },
+        {
+            "id": 2,
+            "name": "Yunan Salatı",
+            "ingredients": "Xiyar, Pomidor, Aysberq Kahı, Qara Zeytun, Feta Pendiri, İtalyan Sousu",
+            "img": "https://www.papajohns.az/uploads/images/Greek%20Salad.jpg",
+            "price": 6
+        },
+        {
+            "id": 3,
+            "name": "Tərəvəz Salatı",
+            "ingredients": "Xiyar, Pomidor, Aysberq Kahı, Qara Zeytun, Yaşıl Bibər, İtalyan Sousu",
+            "img": "https://www.papajohns.az/uploads/images/Garden%20Slad.jpg",
+            "price": 5
+        },
+        {
+            "id": 4,
+            "name": "Tuna Salatı",
+            "ingredients": "Ton Balığı, Aysberq Kahı, Qara Zeytun, Qarğıdalı, Xiyar, İtalyan Sousu",
+            "img": "https://www.papajohns.az/uploads/images/salads/Tuna%20Salad_no_tomato_Azer_158_1.jpg",
+            "price": 8
+        }
+    ],
+    "pasta": [
+        {
+            "id": 1,
+            "name": "Pasta Super Papa",
+            "ingredients": "Spagetti, Pepperoni, Vetçina, İtalyan Sosisləri, Yaşıl Bibər, Göbələk, Pizza-Sous, Mozzarella Pendiri",
+            "img": "https://www.papajohns.az/uploads/images/pasta_super_papa.jpg",
+            "price": 9
+        },
+        {
+            "id": 2,
+            "name": "Çiken Ranç Pasta",
+            "ingredients": "Spagetti, Pepperoni, Vetçina, İtalyan Sosisləri, Yaşıl Bibər, Göbələk, Pizza-Sous, Mozzarella Pendiri",
+            "img": "https://www.papajohns.az/uploads/images/pasta_super_papa.jpg",
+            "price": 9
+        },
+        {
+            "id": 3,
+            "name": "Pasta Super Papa",
+            "ingredients": "Spagetti, Qril Toyuq, Göbələk, Ranç Sousu, Mozzarella Pendiri",
+            "img": "https://www.papajohns.az/uploads/images/pasta_chicken_ranch.jpg",
+            "price": 9
+        },
+        {
+            "id": 4,
+            "name": "Mama Pasta",
+            "ingredients": "Spagetti, Parmezan, Oregano, Pizza-Sous, Mozzarella Pendiri",
+            "img": "https://www.papajohns.az/uploads/images/pasta_mamas_pasta.jpg",
+            "price": 7
+        }
+    ],
+    "drink": [
+        {
+            "id": 1,
+            "name": "Coca Cola 500ml",
+            "img": "https://www.papajohns.az/uploads/images/drinks/1cocacola.png",
+            "price": 2.5
+        },
+        {
+            "id": 2,
+            "name": "Coca-Cola Şəkərsiz 500ml",
+            "img": "https://www.papajohns.az/uploads/images/drinks/1Coca-cola-shekersiz.png",
+            "price": 2.5
+        },
+        {
+            "id": 3,
+            "name": "Sprite 500ml",
+            "img": "https://www.papajohns.az/uploads/images/drinks/1Sprite.png",
+            "price": 2.5
+        },
+        {
+            "id": 4,
+            "name": "Meyvə Şirələri - Cappy",
+            "img": "https://www.papajohns.az/uploads/images/drinks/1Cappi.png",
+            "options": [
+                "Multivitamin (200 ml) -  1.5 M",
+                "Albalı (200 ml) -  1.5 M",
+                "Şaftalı (200 ml) -  1.5 M",
+                "Alma (200 ml) -  1.5 M"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Ayran 200ml",
+            "img": "https://www.papajohns.az/uploads/images/milla.jpg",
+            "options": [
+                "Nanəli -  1.5 M",
+                "Adi -  1.5 M"
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Fanta 500ml",
+            "img": "https://www.papajohns.az/uploads/images/drinks/1Fanta.png",
+            "price": 2.5
+        },
+        {
+            "id": 7,
+            "name": "Qazsız Su 500ml",
+            "img": "https://www.papajohns.az/uploads/images/drinks/1Bonaqua.png",
+            "price": 1
+        },
+        {
+            "id": 8,
+            "name": "Qazlı Su 500ml",
+            "img": "https://www.papajohns.az/uploads/images/drinks/1Bonaqua.png",
+            "price": 1
+        },
+        {
+            "id": 9,
+            "name": "Fuse Tea, 500ml",
+            "img": "https://www.papajohns.az/uploads/images/drinks/1Fusetea.png",
+            "options": [
+                "Şaftalı -  3 M",
+                "Limon -  3 M",
+                "Şaftalı -  Yaşıl Çay -  3 M"
+            ]
+        }
+    ],
+    "desert": [
+        {
+            "id": 1,
+            "name": "Brownie",
+            "img": "https://www.papajohns.az/uploads/images/desert/Brownie--320x220-px.png",
+            "price": 6
+        },
+        {
+            "id": 2,
+            "name": "Tiramisu",
+            "img": "https://www.papajohns.az/uploads/images/desert/Tiramisu--320x220-px.png",
+            "price": 6
+        },
+        {
+            "id": 3,
+            "name": "Dondurma",
+            "img": "https://www.papajohns.az/uploads/images/desert/dondurma%20algida.jpg",
+            "options": [
+                "Çiyələkli -  2 M",
+                "Şokoladlı -  2 M"
+            ]
+        }
+    ],
+    "sauce": [
+        {
+            "id": 1,
+            "name": "Ranç Sousu",
+            "img": "https://www.papajohns.az/uploads/images/Ranch.jpg",
+            "price": 0.8
+        },
+        {
+            "id": 2,
+            "name": "Barbekyu Sousu",
+            "img": "https://www.papajohns.az/uploads/images/Barbeque.jpg",
+            "price": 0.8
+        },
+        {
+            "id": 3,
+            "name": "Sarımsaq Sousu",
+            "img": "https://www.papajohns.az/uploads/images/Garlic.jpg",
+            "price": 0.8
+        },
+        {
+            "id": 4,
+            "name": "Baffalo Sousu",
+            "img": "https://www.papajohns.az/uploads/images/Buffalo.jpg",
+            "price": 0.8
+        },
+        {
+            "id": 5,
+            "name": "1000 Ada Sousu",
+            "img": "https://www.papajohns.az/uploads/images/Thousand-island.jpg",
+            "price": 0.8
+        },
+        {
+            "id": 6,
+            "name": "Pizza Sousu",
+            "img": "https://www.papajohns.az/uploads/images/Pizza.jpg",
+            "price": 0.8
+        }
+    ],
+    "allProducts": [
+        {
+            "id": 1,
+            "name": "Qarışıq Ət",
+            "img": "https://www.papajohns.az/uploads/images/qarishiq_et.jpg",
+            "category": "meat",
+            "ingredients": "Pepperoni, İtalyan Sosisi, Mal Əti, Mal Ətindən Vetçina, Mozzarella Pendiri",
+            "options": [
+                "Kicik, 23 sm - 13 M",
+                "Orta, 30 sm - 21 M",
+                "Böyük, 35 sm - 25 M"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Amerikan Hot",
+            "img": "https://www.papajohns.az/uploads/images/pizza/american-hot.png",
+            "category": "spicy",
+            "ingredients": "Pizza Sous, Mozzarella pendiri, Pepperoni və Halapeno Bibəri",
+            "options": [
+                "Kicik, 23 sm - 13 M",
+                "Orta, 30 sm - 21 M",
+                "Böyük, 35 sm - 25 M"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Super Papa",
+            "img": "https://www.papajohns.az/uploads/images/super-papa.jpg",
+            "category": "meat",
+            "ingredients": "Pepperoni, İtalyan Sosisi, Mal Ətindən Vetçina, Göbələk, Yaşıl Bibər, Qara Zeytun, Mozzarella Pendiri",
+            "options": [
+                "Kicik, 23 sm - 13 M",
+                "Orta, 30 sm - 21 M",
+                "Böyük, 35 sm - 25 M"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Çiken Ranç",
+            "img": "https://www.papajohns.az/uploads/images/chicken_ranch.jpg",
+            "category": "chicken",
+            "ingredients": "Qril Toyuq, Pomidor, Ranç Sousu, Mozzarella Pendiri",
+            "options": [
+                "Kicik, 23 sm - 13 M",
+                "Orta, 30 sm - 21 M",
+                "Böyük, 35 sm - 25 M"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Çiken Barbekyu",
+            "img": "https://www.papajohns.az/uploads/images/chicken_barbekyu.jpg",
+            "category": "chicken",
+            "ingredients": "Qril Toyuq, Göbələk, Barbekyu Sousu, Mozzarella Pendiri",
+            "options": [
+                "Kicik, 23 sm - 13 M",
+                "Orta, 30 sm - 21 M",
+                "Böyük, 35 sm - 25 M"
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Çiken Çizburger",
+            "img": "https://www.papajohns.az/uploads/images/chicken_cheeseburger.jpg",
+            "category": "chicken",
+            "ingredients": "Qril Toyuq, Turşu Xiyar, Pomidor, Mozzarella Pendiri, Sous",
+            "options": [
+                "Kicik, 23 sm - 13 M",
+                "Orta, 30 sm - 21 M",
+                "Böyük, 35 sm - 25 M"
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Vestern Barbekyu",
+            "img": "https://www.papajohns.az/uploads/images/vestern_barbekyu.jpg",
+            "category": "meat",
+            "ingredients": "Mal Əti, Göbələk, Barbekyu Sousu, Mozzarella Pendiri",
+            "options": [
+                "Kicik, 23 sm - 13 M",
+                "Orta, 30 sm - 21 M",
+                "Böyük, 35 sm - 25 M"
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Acılı Vegetarian",
+            "img": "https://www.papajohns.az/uploads/images/pizza/vegetarian-acili.png",
+            "category": "vegetarian",
+            "ingredients": "Halapeno Bibəri, Pomidor, Göbələk, Qara Zeytun, Yaşıl Bibər və Mozzarella Pendiri",
+            "options": [
+                "Kicik, 23 sm - 13 M",
+                "Orta, 30 sm - 21 M",
+                "Böyük, 35 sm - 25 M"
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Yunan",
+            "img": "https://www.papajohns.az/uploads/images/yunan.jpg",
+            "category": "vegetarian",
+            "ingredients": "Pomidor, Zeytun, Feta Pendiri, Oreqano, Acılı Bibər, Mozzarella Pendiri",
+            "options": [
+                "Kicik, 23 sm - 13 M",
+                "Orta, 30 sm - 21 M",
+                "Böyük, 35 sm - 25 M"
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Margarita",
+            "img": "https://www.papajohns.az/uploads/images/margarita.jpg",
+            "category": "vegetarian",
+            "ingredients": "Pomidor, Oreqano, Mozzarella Pendiri",
+            "options": [
+                "Kicik, 23 sm - 13 M",
+                "Orta, 30 sm - 21 M",
+                "Böyük, 35 sm - 25 M"
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Qril Çiken Parmezan",
+            "img": "https://www.papajohns.az/uploads/images/pizza/Grill-%C3%87iken-Parmezan.png",
+            "category": "spicy",
+            "ingredients": "Sarımsaqlı Parmezan sousu, Qril Toyuğu, Vetçina, Pomidor, Mozzarella Pendiri, Halapeno Bibəri",
+            "options": [
+                "Kicik, 23 sm - 13 M",
+                "Orta, 30 sm - 21 M",
+                "Böyük, 35 sm - 25 M"
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Acılı Çiken Ranç",
+            "img": "https://www.papajohns.az/uploads/images/pizza/Spicy-chicken-ranch.png",
+            "category": "spicy",
+            "ingredients": "Ranç Sousu, Toyuq Əti, Göbələklər,  Halapeno Bibəri, Təzə Doğranmış Pomidorlar və Mozzarella Pendiri",
+            "options": [
+                "Kicik, 23 sm - 13 M",
+                "Orta, 30 sm - 21 M",
+                "Böyük, 35 sm - 25 M"
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Havay",
+            "img": "https://www.papajohns.az/uploads/images/havay.jpg",
+            "category": "chicken",
+            "ingredients": "Qril Toyuq, Ananas, Ekstra Mozzarella",
+            "options": [
+                "Kicik, 23 sm - 13 M",
+                "Orta, 30 sm - 21 M",
+                "Böyük, 35 sm - 25 M"
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Nyu Orleans",
+            "img": "https://www.papajohns.az/uploads/images/new_orleans_pizza.jpg",
+            "category": "chicken",
+            "ingredients": "Qarğıdalı, Qril Toyuq, Göbələk, Yaşıl Bibər, Sarımsaq Sousu, Mozzarella Pendiri",
+            "options": [
+                "Kicik, 23 sm - 13 M",
+                "Orta, 30 sm - 21 M",
+                "Böyük, 35 sm - 25 M"
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Çiken Göbələk",
+            "img": "https://www.papajohns.az/uploads/images/desert/Mushroom%20320x220%20px.jpg",
+            "category": "chicken",
+            "ingredients": "Qril toyuq, Turşu xiyar, Göbələk, Mozzarella, Göbələk sousu",
+            "options": [
+                "Kicik, 23 sm - 13 M",
+                "Orta, 30 sm - 21 M",
+                "Böyük, 35 sm - 25 M"
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Klassik Pepperoni",
+            "img": "https://www.papajohns.az/uploads/images/klassik_pepperoni.jpg",
+            "category": "meat",
+            "ingredients": "Pepperoni, Ekstra Mozzarella",
+            "options": [
+                "Kicik, 23 sm - 13 M",
+                "Orta, 30 sm - 21 M",
+                "Böyük, 35 sm - 25 M"
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Marinera",
+            "img": "https://www.papajohns.az/uploads/images/klassik_pepperoni.jpg",
+            "category": "meat",
+            "ingredients": "Ton Balığı, Yaşıl Bibər, Qara Zeytun, Mozzarella Pendiri",
+            "options": [
+                "Kicik, 23 sm - 13 M",
+                "Orta, 30 sm - 21 M",
+                "Böyük, 35 sm - 25 M"
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Litl İtaliya",
+            "img": "https://www.papajohns.az/uploads/images/little_italy.jpg",
+            "category": "meat",
+            "ingredients": "Pepperoni, İtalyan Sosisi, Göbələk, Qara Zeytun, Oreqano, Mozzarella Pendiri",
+            "options": [
+                "Kicik, 23 sm - 13 M",
+                "Orta, 30 sm - 21 M",
+                "Böyük, 35 sm - 25 M"
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Aylend Spays",
+            "img": "https://www.papajohns.az/uploads/images/pizza/Aylend-Spays.png",
+            "category": "spicy",
+            "ingredients": "Sarımsaq Sousu, Qril Toyuğu, Ananas, Pomidor, Mozzarella Pendiri, Halapeno bibəri, Çili Pul Bibəri",
+            "options": [
+                "Kicik, 23 sm - 13 M",
+                "Orta, 30 sm - 21 M",
+                "Böyük, 35 sm - 25 M"
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Çiken Baffalo",
+            "img": "https://www.papajohns.az/uploads/images/chicken_buffalo.jpg",
+            "category": "spicy",
+            "ingredients": "Toyuq Poppersləri, Vetçina, Baffalo Sousu, Ranç Sousu, Mozzarella Pendiri",
+            "options": [
+                "Kicik, 23 sm - 13 M",
+                "Orta, 30 sm - 21 M",
+                "Böyük, 35 sm - 25 M"
+            ]
+        },
+        {
+            "id": 25,
+            "name": "Dabl Çeddar Çizburger Papadias",
+            "ingredients": "1000 Ada sousu, Mal Əti, Pomidor, Mozzarella və Cheddar Pendirləri",
+            "img": "https://www.papajohns.az/uploads/images/Papadias/Dabl-cheddar-%C3%A7%C4%B0zburger-Papad%C4%B0as-yeni-sayt.png",
+            "price": 8
+        },
+        {
+            "id": 26,
+            "name": "Nyu Orleans Papadias",
+            "ingredients": "Sarımsaq Sousu, Yaşıl Bibər, Qril Toyuğu, Qarğıdalı, Mozzarella Pendiri.",
+            "img": "https://www.papajohns.az/uploads/images/Papadias/Nyu-Orleans-papad%C4%B0as-yeni-sayt.png",
+            "price": 8
+        },
+        {
+            "id": 27,
+            "name": "Çiken Baffalo Papadias",
+            "ingredients": "Ranç Sousu, Qril Toyuq, Pomidor, Mozzarella Pendiri, Baffalo Sousu.",
+            "img": "https://www.papajohns.az/uploads/images/Papadias/Buffalo-Chiken-Papadias.jpg",
+            "price": 8
+        },
+        {
+            "id": 28,
+            "name": "Acılı Çiken Ranç Papadias",
+            "ingredients": "Ranç Sousu, Qril Toyuğu, Göbələk, Pomidor, Halapeno, Mozarella.",
+            "img": "https://www.papajohns.az/uploads/images/Papadias/Acili-%C3%A7iken-ran%C3%A7-papadias.png",
+            "price": 8
+        },
+        {
+            "id": 29,
+            "name": "İtalyan Papadias",
+            "ingredients": "Pizza Sousu, İtalyan Sosisi, Pepperoni, Mozzarella, Parmezan, Italyan ədviyyatları.",
+            "img": "https://www.papajohns.az/uploads/images/Papadias/%C4%B0talyan-papadias.png",
+            "price": 8
+        },
+        {
+            "id": 30,
+            "name": "Çeddar Meksika Papadias",
+            "ingredients": "Pizza sousu, Yaşıl Bibər, Qril Toyuğu, Mozzarella, Halapeno",
+            "img": "https://www.papajohns.az/uploads/images/Papadias/%C4%B0talyan-papadias.png",
+            "price": 8
+        },
+        {
+            "id": 31,
+            "name": "Çiken BBQ Papadias",
+            "ingredients": "Qril Toyuğu, Göbələk, Mozzarella, Barbekyu sousu",
+            "img": "https://www.papajohns.az/uploads/images/Papadias/%C4%B0talyan-papadias.png",
+            "price": 8
+        },
+        {
+            "id": 32,
+            "name": "Pepperoni Rolls",
+            "ingredients": "8 ədəd roll, Pizza-Sous",
+            "img": "https://www.papajohns.az/uploads/images/pepperoni_rolls.jpg",
+            "price": 9
+        },
+        {
+            "id": 33,
+            "name": "Cheddar Rolls",
+            "ingredients": "8 ədəd roll, Pizza-Sous",
+            "img": "https://www.papajohns.az/uploads/images/snacks/Cheddar-Rolls.png",
+            "price": 9
+        },
+        {
+            "id": 34,
+            "name": "Çiken Rolls",
+            "ingredients": "Qril Toyuq, Turşu Xiyar, Mozzarella Pendiri, Ranç Sousu",
+            "img": "https://www.papajohns.az/uploads/images/snacks/Chicken-Rolls.jpg",
+            "price": 9
+        },
+        {
+            "id": 35,
+            "name": "Acılı Çiken Rolls",
+            "ingredients": "Qril Toyuq, Halapeno Bibəri, Mozzarella Pendiri, Ranç Sousu",
+            "img": "https://www.papajohns.az/uploads/images/snacks/Spicy-Chicken-Rolls.jpg",
+            "price": 9
+        },
+        {
+            "id": 36,
+            "name": "Cheddar Pendirli Çubuqlar",
+            "ingredients": "1 ədəd Pizza sousu, 1 ədəd sarımsaq sousu",
+            "img": "https://www.papajohns.az/uploads/images/snacks/Cheddar-Pendirli-%C3%A7ubuqlar.png",
+            "price": 9
+        },
+        {
+            "id": 37,
+            "name": "Pendirli Çubuqlar",
+            "ingredients": "Sarımsaq Sousu, Pizza-Sous",
+            "img": "https://www.papajohns.az/uploads/images/snacks/Cheddar-Pendirli-%C3%A7ubuqlar.png",
+            "price": 7
+        },
+        {
+            "id": 38,
+            "name": "Vetçina və Göbələkli Çubuqlar",
+            "ingredients": "Sarımsaq Sousu, Vetçina, Göbələk, Mozzarella",
+            "img": "https://www.papajohns.az/uploads/images/snacks/pendirli-chubuqlar-bikon%20(1).png",
+            "price": 9
+        },
+        {
+            "id": 39,
+            "name": "Küncütlü Pendirli Çubuqlar",
+            "ingredients": "Sarımsaq Sousu, Mozzarella, Küncüt",
+            "img": "https://www.papajohns.az/uploads/images/snacks/pendirli-chubuqlar-kuncut%20(1).png",
+            "price": 8
+        },
+        {
+            "id": 40,
+            "name": "Sarımsaqlı Çubuqlar",
+            "ingredients": "Sarımsaq Sousu, Pizza-Sous",
+            "img": "https://www.papajohns.az/uploads/images/sarimsaqli_cubuqlar.jpg",
+            "price": 3
+        },
+        {
+            "id": 41,
+            "name": "Kalzone, Qril Toyuğu və Göbələk",
+            "ingredients": "Qril Toyuq, Göbələk, Sarımsaq Sousu, Mozzarella Pendiri",
+            "img": "https://www.papajohns.az/uploads/images/Calzone_Chicken.jpg",
+            "price": 6
+        },
+        {
+            "id": 42,
+            "name": "Kalzone, Pepperoni və İtalyan Sosisi",
+            "ingredients": "Pepperoni, İtalyan Sosisləri, Sarımsaq Sousu, Mozzarella Pendiri",
+            "img": "https://www.papajohns.az/uploads/images/Calzone_Pepperoni.jpg",
+            "price": 6
+        },
+        {
+            "id": 43,
+            "name": "Pendirli mütəkkələr",
+            "ingredients": "1 ədəd Pizza sousu, 1 ədəd Sarımsaq sousu",
+            "img": "https://www.papajohns.az/uploads/images/snacks/pendirli-m%C3%BCt%C9%99kk%C9%99l%C9%99r.png",
+            "price": 10
+        },
+        {
+            "id": 44,
+            "name": "Toyuq Qanadları",
+            "ingredients": "Barbekyu və ya Baffalo sousu ilə (250 gr)",
+            "img": "https://www.papajohns.az/uploads/images/toyuq_qanadlari.jpg",
+            "price": 9
+        },
+        {
+            "id": 45,
+            "name": "Kartof Dilimləri",
+            "ingredients": "200 qram",
+            "img": "https://www.papajohns.az/uploads/images/kartof_dilimleri.jpg",
+            "price": 4
+        },
+        {
+            "id": 46,
+            "name": "Toyuq Poppersləri",
+            "ingredients": "150 qram",
+            "img": "https://www.papajohns.az/uploads/images/chicken_poppers.jpg",
+            "price": 6
+        },
+        {
+            "id": 47,
+            "name": "Sezar Salatı",
+            "ingredients": "Qril Toyuq, Aysberq Kahı, Suxari, Pomidor, Parmesan, Sezar Sousu",
+            "img": "https://www.papajohns.az/uploads/images/Caesar%20Salad.jpg",
+            "price": 9
+        },
+        {
+            "id": 48,
+            "name": "Yunan Salatı",
+            "ingredients": "Xiyar, Pomidor, Aysberq Kahı, Qara Zeytun, Feta Pendiri, İtalyan Sousu",
+            "img": "https://www.papajohns.az/uploads/images/Greek%20Salad.jpg",
+            "price": 6
+        },
+        {
+            "id": 49,
+            "name": "Tərəvəz Salatı",
+            "ingredients": "Xiyar, Pomidor, Aysberq Kahı, Qara Zeytun, Yaşıl Bibər, İtalyan Sousu",
+            "img": "https://www.papajohns.az/uploads/images/Garden%20Slad.jpg",
+            "price": 5
+        },
+        {
+            "id": 50,
+            "name": "Tuna Salatı",
+            "ingredients": "Ton Balığı, Aysberq Kahı, Qara Zeytun, Qarğıdalı, Xiyar, İtalyan Sousu",
+            "img": "https://www.papajohns.az/uploads/images/salads/Tuna%20Salad_no_tomato_Azer_158_1.jpg",
+            "price": 8
+        },
+        {
+            "id": 51,
+            "name": "Pasta Super Papa",
+            "ingredients": "Spagetti, Pepperoni, Vetçina, İtalyan Sosisləri, Yaşıl Bibər, Göbələk, Pizza-Sous, Mozzarella Pendiri",
+            "img": "https://www.papajohns.az/uploads/images/pasta_super_papa.jpg",
+            "price": 9
+        },
+        {
+            "id": 52,
+            "name": "Çiken Ranç Pasta",
+            "ingredients": "Spagetti, Pepperoni, Vetçina, İtalyan Sosisləri, Yaşıl Bibər, Göbələk, Pizza-Sous, Mozzarella Pendiri",
+            "img": "https://www.papajohns.az/uploads/images/pasta_super_papa.jpg",
+            "price": 9
+        },
+        {
+            "id": 53,
+            "name": "Pasta Super Papa",
+            "ingredients": "Spagetti, Qril Toyuq, Göbələk, Ranç Sousu, Mozzarella Pendiri",
+            "img": "https://www.papajohns.az/uploads/images/pasta_chicken_ranch.jpg",
+            "price": 9
+        },
+        {
+            "id": 54,
+            "name": "Mama Pasta",
+            "ingredients": "Spagetti, Parmezan, Oregano, Pizza-Sous, Mozzarella Pendiri",
+            "img": "https://www.papajohns.az/uploads/images/pasta_mamas_pasta.jpg",
+            "price": 7
+        },
+        {
+            "id": 55,
+            "name": "Coca Cola 500ml",
+            "img": "https://www.papajohns.az/uploads/images/drinks/1cocacola.png",
+            "price": 2.5
+        },
+        {
+            "id": 56,
+            "name": "Coca-Cola Şəkərsiz 500ml",
+            "img": "https://www.papajohns.az/uploads/images/drinks/1Coca-cola-shekersiz.png",
+            "price": 2.5
+        },
+        {
+            "id": 57,
+            "name": "Sprite 500ml",
+            "img": "https://www.papajohns.az/uploads/images/drinks/1Sprite.png",
+            "price": 2.5
+        },
+        {
+            "id": 58,
+            "name": "Meyvə Şirələri - Cappy",
+            "img": "https://www.papajohns.az/uploads/images/drinks/1Cappi.png",
+            "options": [
+                "Multivitamin (200 ml) -  1.5 M",
+                "Albalı (200 ml) -  1.5 M",
+                "Şaftalı (200 ml) -  1.5 M",
+                "Alma (200 ml) -  1.5 M"
+            ]
+        },
+        {
+            "id": 59,
+            "name": "Ayran 200ml",
+            "img": "https://www.papajohns.az/uploads/images/milla.jpg",
+            "options": [
+                "Nanəli -  1.5 M",
+                "Adi -  1.5 M"
+            ]
+        },
+        {
+            "id": 60,
+            "name": "Fanta 500ml",
+            "img": "https://www.papajohns.az/uploads/images/drinks/1Fanta.png",
+            "price": 2.5
+        },
+        {
+            "id": 61,
+            "name": "Qazsız Su 500ml",
+            "img": "https://www.papajohns.az/uploads/images/drinks/1Bonaqua.png",
+            "price": 1
+        },
+        {
+            "id": 62,
+            "name": "Qazlı Su 500ml",
+            "img": "https://www.papajohns.az/uploads/images/drinks/1Bonaqua.png",
+            "price": 1
+        },
+        {
+            "id": 63,
+            "name": "Fuse Tea, 500ml",
+            "img": "https://www.papajohns.az/uploads/images/drinks/1Fusetea.png",
+            "options": [
+                "Şaftalı -  3 M",
+                "Limon -  3 M",
+                "Şaftalı -  Yaşıl Çay -  3 M"
+            ]
+        },
+        {
+            "id": 64,
+            "name": "Brownie",
+            "img": "https://www.papajohns.az/uploads/images/desert/Brownie--320x220-px.png",
+            "price": 6
+        },
+        {
+            "id": 65,
+            "name": "Tiramisu",
+            "img": "https://www.papajohns.az/uploads/images/desert/Tiramisu--320x220-px.png",
+            "price": 6
+        },
+        {
+            "id": 66,
+            "name": "Dondurma",
+            "img": "https://www.papajohns.az/uploads/images/desert/dondurma%20algida.jpg",
+            "options": [
+                "Çiyələkli -  2 M",
+                "Şokoladlı -  2 M"
+            ]
+        },
+        {
+            "id": 67,
+            "name": "Ranç Sousu",
+            "img": "https://www.papajohns.az/uploads/images/Ranch.jpg",
+            "price": 0.8
+        },
+        {
+            "id": 68,
+            "name": "Barbekyu Sousu",
+            "img": "https://www.papajohns.az/uploads/images/Barbeque.jpg",
+            "price": 0.8
+        },
+        {
+            "id": 69,
+            "name": "Sarımsaq Sousu",
+            "img": "https://www.papajohns.az/uploads/images/Garlic.jpg",
+            "price": 0.8
+        },
+        {
+            "id": 70,
+            "name": "Baffalo Sousu",
+            "img": "https://www.papajohns.az/uploads/images/Buffalo.jpg",
+            "price": 0.8
+        },
+        {
+            "id": 71,
+            "name": "1000 Ada Sousu",
+            "img": "https://www.papajohns.az/uploads/images/Thousand-island.jpg",
+            "price": 0.8
+        },
+        {
+            "id": 72,
+            "name": "Pizza Sousu",
+            "img": "https://www.papajohns.az/uploads/images/Pizza.jpg",
+            "price": 0.8
+        }
+    ],
+    "campaigns": [
+        {
+            "id": 1,
+            "img": "https://www.papajohns.az/uploads/images/banners/Yashin%20qeder%20endirim/Yashin%20qeder%20endirim.jpeg",
+            "title": "Yaşın qədər endirim",
+            "description": "",
+            "text": "Ad Günündür? Papa Johns-a gəl, dostlarınla ye, iç, pizzalara yaşın qədər endirim qazan! Ad günü kampaniyasının şərtlərinə uyğun olaraq doğum günü olan şəxs həmin gün şəxsiyyətini təsdiq edən sənədlə birgə restorana yaxınlaşaraq endirimli pizza sifariş edə bilər. Qonaqların sayı 8 və daha artıq olarsa, gəlməzdən bir gün əvvəl *7272-yə zəng edərək seçəcəyiniz filial haqqında operatora məlumat verməniz mütləqdir. Bu rezerv demək deyil, sadəcə olaraq restoranın öncədən gələcək qonaqlar haqqında məlumatlı olması üçündür. * Faiz endirimi ad günü olan şəxsin yaşına bərabərdir. * Endirim yalnız pizzalara edilir və mini pizzalara şamil edilmir. * Ad günü olan şəxs kampaniyadan həmin gün bir dəfə yararlana bilər. * Təklif yalnız restoran içi və al-apar üçün keçərlidir, çatdırılmaya isə aid deyil. * Kampaniya üzrə maksimum 20 ədəd pizza sifariş edilə bilər. * Təhlükəsizlik baxımından restorana kənardan içki, tort və ya hər hansı yemək məhsulunun gətirilməsinə icazə verilmir."
+        },
+        {
+            "id": 2,
+            "img": "https://www.papajohns.az/uploads/images/banners/Pizza%20Party%20New/pizza%20party%202021%20feed.jpg",
+            "title": "Pizza Party",
+            "description": "",
+            "text": "Dostlarla əylənmək? Korporativ yığıncaq? Sinif yoldaşlarınla görüş? Bəlkə universitetin uzun mühazirələrdən sonra yorulub bir party keçirmək? Papa John’s YENİ PİZZA PARTY MENYULARI ilə sənə gəlir!!! 7 NƏFƏRLİK MENYU - 65 AZN KLASSİK PEPPERONİ, ÇİKEN BBQ VƏ MARQARİTA (BÖYÜK) 2 ÇİKEN POPPERS, 2 KARTOF DİLİMLƏRİ, 1 PEPPERONİ ROLLS (8 ƏDƏD) 7 ƏDƏD İÇKİ (QAZLI İÇKİLƏR, AYRAN VƏ YA SADƏ SU) 10 NƏFƏRLİK MENYU - 85 AZN KLASSİK PEPPERONİ, ÇİKEN BBQ, MARQARİTA VƏ SUPER PAPA (BÖYÜK) 2 ÇİKEN POPPERS, 2 KARTOF DİLİMLƏRİ,  2 PEPPERONİ ROLLS (8 ƏDƏD) 10 ƏDƏD İÇKİ (QAZLI İÇKİLƏR, AYRAN VƏ YA SADƏ SU) 15 NƏFƏRLİK MENYU - 115 AZN KLASSİK PEPPERONİ, ÇİKEN BBQ, MARQARİTA, MEKSİKA, ÇİKEN RANÇ VƏ SUPER PAPA (BÖYÜK) 3 ÇİKEN POPPERS, 3 KARTOF DİLİMLƏRİ,  3 PEPPERONİ ROLLS (8 ƏDƏD) 15 ƏDƏD İÇKİ (QAZLI İÇKİLƏR, AYRAN VƏ YA SADƏ SU)"
+        },
+        {
+            "id": 3,
+            "img": "https://www.papajohns.az/uploads/images/banners/Papa%20Talk/papa%20talk.jpg",
+            "title": "Papa Talk - 1 İllik Pizza Qazan",
+            "description": "",
+            "text": "Bir il pulsuz pizza hədiyyə edərək onlarla insanı sevindirmiş olduq! Bəs bilirsən ki, Papa Talk sorğusunda iştirak edərək sən də bir illik pizza ehtiyyatı qazana bilərsən? Qalib olmaq istəyirsənsə, sadəcə sifariş qəbzinin və ya qutunun üzərindəki QR kodu telefonuna skan edərək sorğuya keçid et və şansını qaçırma! *Qeyd: Hər ay bir qalib seçilir və qaliblərə 12 böyük pizza hədiyyə kuponu təqdim olunur. Sorğu haqqında ətraflı məlumat üçün linkə keçid edə bilərsiniz. https://www.papajohns.az/az/papa-talk Sorğuda iştirakınız bizim üçün çox önəmlidir və daha yaxşı olmamız üçün fikirləriniz qeydə alınır. Sizə uğurlu qalibiyyət arzulayırıq və iştirakınız üçün təşəkkür edirik!"
+        },
+        {
+            "id": 4,
+            "img": "https://www.papajohns.az/uploads/images/Campaigns/2023/February/kombo%20menyu%20teze%20ler%202022%20son%209.jpg",
+            "title": "Bol Kombolar",
+            "description": "1 Sentyabr - 30 Sentyabr ",
+            "text": "Əziz qonaqlar, dostlarınız, yaxınlarınız və sadəcə sevdiklərinizlə bol-bol dadlı, bir-birindən maraqlı menyular dadmaq istəyirsinizsə, YENİ BOL-BOL KOMBOLAR sizin üçündür! 1. Pepperoni Rolls Təkli: Pepperoni rolls (8 ədəd) + Kartof dilimləri + 1 içki + 1 Pizza sousu + 1 Pepperonçini - CƏMİ 8.90 AZN 2. Kalzone Təkli: İstənilən Kalzone + Kartof dilimləri + 1 içki + 1 Pizza sousu + 1 Pepperonçini - CƏMİ 8.90 AZN 3. Mini Pizza Təkli: İstənilən Mini pizza + Kartof dilimləri + 1 içki + 1 Pizza sousu + 1 Pepperonçini - CƏMİ 9.90 AZN 4. Papadias Təkli: İstənilən Papadias, Kartof dilimləri, 1 içki, 1 Sarımsaq sousu və 1 Pepperonçini – CƏMİ 11.90AZN 5. Kalzone Cütlü: İstənilən Kalzone + Pepperoni rolls + 2 içki + 1 Pizza sousu + 2 Pepperonçini – CƏMİ 12.90 AZN 6. Mini Pizza Cütlü: İstənilən Mini pizza + Pepperoni rolls + 2 içki + 1 Pizza sousu + 2 Pepperonçini – CƏMİ 13.90 AZN 7. Papadias Cütlü: İstənilən Papadias + Pepperoni rolls + 2 içki + 1 Sarımsaq sousu + 2 Pepperonçini – CƏMİ 14.90AZN 8. Kalzone Cütlü Max: İstənilən Kalzone + Pepperoni rolls (8 ədəd) + Kartof dilimləri + 2 içki + 2 Pizza sousu + 2 Pepperonçini – CƏMİ 14.90 AZN 9. Mini Pizza Cütlü Max: İstənilən Mini pizza + Pepperoni rolls (8 ədəd) + Kartof dilimləri + 2 içki + 2 Pizza sousu + 2 Pepperonçini – CƏMİ 15.90 AZN 10. Papadias Cütlü Max: İstənilən Papadias, Pepperoni rolls (8 ədəd) + Kartof dilimləri + 2 içki + 1 Pizza sousu + 1 Sarımsaq sousu + 2 Pepperonçini – CƏMİ 16.90 AZN * Kampaniyaya 0.5 litr həcmli qazlı içkilər daxildir. * Sifariş 28 Mall, Park Bulvar, Gənclik Mall, Dəniz Mall və Şüvəlan Park TM-də yalnız al-apar sifarişləri üçün keçərlidir"
+        },
+        {
+            "id": 5,
+            "img": "https://www.papajohns.az/uploads/images/Campaigns/2023/Sentyabr/yeniden-derslere.png",
+            "title": "Yenidən Dərslərə",
+            "description": "",
+            "text": "Uzun bir fasilədən sonra məktəb sıralarına qayıtmağın vaxtı gəldi. Yenidən dərslərin başlaması münasibətilə bütün şagird və tələbələrə zehn açıqlığı arzulayırıq və `Yenidən dərslərə` kampaniyasından yararlanmağa dəvət edirik! CƏMİ 16 AZN - ə bir çox ləzzətin dadını çıxartmağa nə deyirsiniz? Orta Klassik Pepperoni Qızarmış Kartof dilimləri 2 içki Sifariş üçün *7272 Müddət: 1 Sentyabr - 30 Sentyabr Kampaniyaya 0.5 litr həcmli qazlı içkilər daxildir Kampaniya restoran içi, al-apar və çatdırılma üçün keçərlidir."
+        },
+        {
+            "id": 6,
+            "img": "https://www.papajohns.az/uploads/images/Campaigns/2023/Sentyabr/Ulduzum-Papa-Mix.png",
+            "title": "Papa Miks",
+            "description": "1 Sentyabr - 30 Sentyabr ",
+            "text": "CƏMİ 20 AZN-ə Bakcell Ulduzum kodu ilə Böyük Papa Miks + Kartof Dilimləri + 2 içki əldə et! Sifariş üçün *7272 ‌Müddət: 1 Sentyabr - 30 Sentyabr Kampaniyaya 0.5 litr həcmli qazlı içkilər və ayran daxildir Kampaniya restoran içi, al-apar və çatdırılma üçün keçərlidir."
+        },
+        {
+            "id": 7,
+            "img": "https://www.papajohns.az/uploads/images/Campaigns/2023/Sentyabr/Orta-Chiken-BBQ-%26-Amerikan-Hot.png",
+            "title": "Çiken BBQ & Amerikan Hot",
+            "description": "1 Sentyabr - 30 Sentyabr ",
+            "text": "Şirindən acıya uzanan ləzzət - CƏMİ 25 AZN ! Orta Çiken BBQ Acılı Orta Amerikan Hot Xırçıltılı Çiken Poppers Sifariş üçün *7272 Müddət: 1 Sentyabr - 30 Sentyabr Kampaniya restoran içi, al-apar və çatdırılma üçün keçərlidir."
+        }
+    ]
+}
